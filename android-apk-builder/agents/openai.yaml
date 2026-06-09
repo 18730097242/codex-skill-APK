@@ -1,0 +1,8 @@
+interface:
+  display_name: "Android APK Builder"
+  short_description: "Build and verify small Android APKs."
+  brand_color: "#2563EB"
+  default_prompt: "Use $android-apk-builder to create a small Android APK and verify the signed package."
+
+policy:
+  allow_implicit_invocation: true
